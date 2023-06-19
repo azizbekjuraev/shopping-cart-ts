@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://images-cdn.reedsy.com/discovery/post/109/featured_image/medium_aa7b8fcc4ee3a86626aca3157bbd8d697c38429a.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 799,
+    "imgUrl": "https://www.apple.com/newsroom/images/product/mac/standard/MacBook-Air-Keyboard-10302018_inline.jpg.large.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 2.99,
+    "imgUrl": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/bananas-1296x728-feature.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nexia 1.6 dons (2016)",
+    "price": 9000,
+    "imgUrl": "https://repost.uz/storage/uploads/8-1685945187-avto11-post-material.jpeg"
+  }
+]
